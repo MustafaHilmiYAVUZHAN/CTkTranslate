@@ -21,7 +21,9 @@ pip install googletrans==4.0.0-rc1 pywin32 customtkinter hPyT CTkRightClickMenu 
 ##Usage
 
 Run Translate.pyw to start the application. Enter text in the input field, select the target language, and the translation will appear in the output field.
-Screenshots
+
+## Screenshot
+### <img src="https://raw.githubusercontent.com/MustafaHilmiYAVUZHAN/CTkTranslate/main/ScreenShot1.png"  width="400" >
 
 
 _[MustafaHilmiYAVUZHAN]_
