@@ -26,6 +26,8 @@ class TranslatorApp:
         self.root.resizable(0,0)
 
         self.create_widgets()
+        self.root.focus()
+        self.input.focus()
         self.apply_styles()
         self.root.bind('<Control-t>', self.on_shortcut_exit)
 
